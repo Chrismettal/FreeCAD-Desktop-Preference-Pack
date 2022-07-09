@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+  <name>Chrismettal_Desktop</name>
+  <description>A preference pack with all my desktop focused settings</description>
+  <version>0.0.1</version>
+  <maintainer email="chrismettal@binary-6.de">Chrismettal</maintainer>
+  <license file="LICENSE">GPLv3</license>
+  <url type="repository" branch="main">https://github.com/Chrismettal/FreeCAD-Desktop-Preference-Pack</url>
+  <icon>resources/icons/Behave-Dark.svg</icon>
+
+  <content>
+    <preferencepack>
+      <name>Chrismettal_Desktop</name>
+      <description>My desktop focused preferences</description>
+      <tag>color</tag>
+      <tag>behave</tag>
+      <tag>desktop</tag>
+      <tag>settings</tag>
+    </preferencepack>
+  </content>
+
+</package>
